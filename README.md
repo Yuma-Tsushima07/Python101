@@ -8,7 +8,7 @@ Completing simple challenges with python!
 | Challenge 2                     | WAF to accept a string and reverse using reverse().                                                                      | Completed    |
 | Challenge 3                     | WAF to convert all `" "` (spaces) to `"_"` (underscore)                                                                  | Completed    |
 | Challenge 4                     | WAF to input a list and WAF to print first and last element of the list.                                                 | Completed    |
-| Challenge 5                     | WAF that takes a input n and computer n+nn+nnn.                                                                          | Incomplete   |
+| Challenge 5                     | WAF that takes a input n and computer n+nn+nnn.                                                                          | Completed    |
 | Challenge 6                     | WAF to check if number is between 100, 1000 or 10000.                                                                    | Incomplete   |
 | Challenge 7                     | WAF to return sum of 3 number.                                                                                           | Incomplete   |
 | Challenge 8                     | WAF to copy a string                                                                                                     | Incomplete   |
