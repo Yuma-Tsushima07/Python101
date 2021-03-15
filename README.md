@@ -6,7 +6,7 @@ Completing simple challenges with python!
 | -----------------------------   | -----------------------------------------------------------------------------------------------------------------------  | ------------ | 
 | Challenge 1                     | WAF to accept a string and reverse it with out using reverse function.                                                   | Completed    |
 | Challenge 2                     | WAF to accept a string and reverse using reverse().                                                                      | Completed    |
-| Challenge 3                     | WAF to convert all `" "` (spaces) to `"_"` (underscore)                                                                  | Incomplete   |
+| Challenge 3                     | WAF to convert all `" "` (spaces) to `"_"` (underscore)                                                                  | Completed    |
 | Challenge 4                     | WAF to input a list and WAF to print first and last element of the list.                                                 | Incomplete   |
 | Challenge 5                     | WAF that takes a input n and computer n+nn+nnn.                                                                          | Incomplete   |
 | Challenge 6                     | WAF to check if number is between 100, 1000 or 10000.                                                                    | Incomplete   |
