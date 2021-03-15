@@ -1,3 +1,4 @@
+print("Challenge 24: Write a Python program to get the third side of right angled triangle from two given sides.")
 print("Choose the side you want the calculate!")
 print("""            |\\
             | \\

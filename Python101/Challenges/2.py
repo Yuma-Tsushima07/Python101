@@ -1,3 +1,4 @@
+print("Challenge 2: WAF to accept a string and reverse using reverse(). ")
 def reverse(s):
     if len(s) == 0:
         return s
