@@ -4,7 +4,7 @@ Completing simple challenges with python!
 # Challenges
 |  Challenge Number               |  Challenge Name                                                                                                          | Status       | 
 | -----------------------------   | -----------------------------------------------------------------------------------------------------------------------  | ------------ | 
-| Challenge 1                     | WAF to accept a string and reverse it with out using reverse function.                                                   | Incomplete   |
+| Challenge 1                     | WAF to accept a string and reverse it with out using reverse function.                                                   | Completed    |
 | Challenge 2                     | WAF to accept a string and reverse using reverse().                                                                      | Incomplete   |
 | Challenge 3                     | WAF to convert all `" "` (spaces) to `"_"` (underscore)                                                                  | Incomplete   |
 | Challenge 4                     | WAF to input a list and WAF to print first and last element of the list.                                                 | Incomplete   |
