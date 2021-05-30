@@ -14,12 +14,12 @@ Completing simple challenges with python!
 | Challenge 8                     | WAF to copy a string                                                                                                     | `Completed`  |
 | Challenge 9                     | WAF to concatinate 2 string with out using +.                                                                            | `Completed`  |
 | Challenge 10                    | WAF to concatinate a string using +.                                                                                     | `Completed`  |
-| Challenge 11                    | WAF to print factorial of a number.                                                                                      | Incomplete   |
-| Challenge 12                    | WAF to find if a given letter is vowel or not.                                                                           | Incomplete   |
-| Challenge 13                    | WAF to remove all the vowles from a string.                                                                              | Incomplete   |
+| Challenge 11                    | WAF to print factorial of a number.                                                                                      | `Completed`  |
+| Challenge 12                    | WAF to find if a given letter is vowel or not.                                                                           | `Completed`  |
+| Challenge 13                    | WAF to remove all the vowles from a string.                                                                              | `Completed`  |
 | Challenge 14                    | WAF to check if a number is present in a list or not.                                                                    | Incomplete   |
-| Challenge 15                    | WAF to convert all elements to a list and return them                                                                    | Incomplete   |
-| Challenge 16                    | WAF to calculate area or triangle                                                                                        | Incomplete   |
+| Challenge 15                    | WAF to convert all elements to a list and return them                                                                    | `Completed`  |
+| Challenge 16                    | WAF to calculate area or triangle                                                                                        | `Completed`  |
 | Challenge 17                    | WAF to calculate GCD of 2 positive numbers                                                                               | Incomplete   |
 | Challenge 18                    | Write a Python program to create all possible strings by using 'a', 'e', 'i', 'o', 'u'. Use the characters exactly once. | Incomplete   |
 | Challenge 19                    | WAP program to remove and print every third number from a list of numbers until the list becomes empty.                  | Incomplete   |
