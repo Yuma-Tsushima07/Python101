@@ -10,9 +10,9 @@ Completing simple challenges with python!
 | Challenge 4                     | WAF to input a list and WAF to print first and last element of the list.                                                 | Completed    |
 | Challenge 5                     | WAF that takes a input n and computer n+nn+nnn.                                                                          | Completed    |
 | Challenge 6                     | WAF to check if number is between 100, 1000 or 10000.                                                                    | Incomplete   |
-| Challenge 7                     | WAF to return sum of 3 number.                                                                                           | Incomplete   |
-| Challenge 8                     | WAF to copy a string                                                                                                     | Incomplete   |
-| Challenge 9                     | WAF to concatinate 2 string with out using +.                                                                            | Incomplete   |
+| Challenge 7                     | WAF to return sum of 3 number.                                                                                           | Completed    |
+| Challenge 8                     | WAF to copy a string                                                                                                     | Completed    |
+| Challenge 9                     | WAF to concatinate 2 string with out using +.                                                                            | Completed    |
 | Challenge 10                    | WAF to concatinate a string using +.                                                                                     | Incomplete   |
 | Challenge 11                    | WAF to print factorial of a number.                                                                                      | Incomplete   |
 | Challenge 12                    | WAF to find if a given letter is vowel or not.                                                                           | Incomplete   |
