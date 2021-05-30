@@ -13,7 +13,7 @@ Completing simple challenges with python!
 | Challenge 7                     | WAF to return sum of 3 number.                                                                                           | `Completed`  |
 | Challenge 8                     | WAF to copy a string                                                                                                     | `Completed`  |
 | Challenge 9                     | WAF to concatinate 2 string with out using +.                                                                            | `Completed`  |
-| Challenge 10                    | WAF to concatinate a string using +.                                                                                     | Incomplete   |
+| Challenge 10                    | WAF to concatinate a string using +.                                                                                     | `Completed`  |
 | Challenge 11                    | WAF to print factorial of a number.                                                                                      | Incomplete   |
 | Challenge 12                    | WAF to find if a given letter is vowel or not.                                                                           | Incomplete   |
 | Challenge 13                    | WAF to remove all the vowles from a string.                                                                              | Incomplete   |
