@@ -1,4 +1,4 @@
-print('WAF to concatinate a string using +.')
+print('Challenge 10: WAF to concatinate a string using +.')
 print("Enter the First String: ")
 strOne = input()
 print("Enter the Second String: ")

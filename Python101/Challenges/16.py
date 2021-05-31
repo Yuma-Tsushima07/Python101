@@ -1,6 +1,6 @@
 import math
 
-print('WAF to calculate area or triangle')
+print('Challenge 16: WAF to calculate area or triangle')
 
 def AreaOfTriangle(a, b, c):
     s = (a + b + c) / 2

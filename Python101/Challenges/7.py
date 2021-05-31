@@ -1,4 +1,4 @@
-print('WAF to return sum of 3 number.')
+print('Challenge 7: WAF to return sum of 3 number.')
 
 num1 = float(input("Input the num1: "))
 num2 = float(input("Input the num2: "))

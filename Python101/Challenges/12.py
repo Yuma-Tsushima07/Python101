@@ -1,4 +1,4 @@
-print('WAF to find if a given letter is vowel or not.')
+print('Challenge 12: WAF to find if a given letter is vowel or not.')
 
 def is_vowel(char):
     all_vowels = 'aeiou'

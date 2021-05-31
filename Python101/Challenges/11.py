@@ -1,4 +1,4 @@
-print('WAF to print factorial of a number.')
+print('Challenge 11: WAF to print factorial of a number.')
 
 num = int(input("Enter a number:"))
 Fact = 1

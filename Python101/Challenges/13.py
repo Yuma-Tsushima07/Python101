@@ -1,6 +1,6 @@
 import re
 
-print('WAF to remove all the vowles from a string.')
+print('Challenge 13: WAF to remove all the vowles from a string.')
 
 
 vowels = 'aeiouAEIOU'
