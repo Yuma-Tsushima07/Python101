@@ -29,19 +29,19 @@ Completing simple challenges with python!
 | Challenge 23                    | Write a Python program to create all possible permutations from a given collection of distinct numbers.                  | `Completed`  |
 | Challenge 24                    | Write a Python program to get the third side of right angled triangle from two given sides.                              | `Completed`  |
 | Challenge 25                    | Write a Python program to find the median among three given numbers.                                                     | `Completed`  |
-| Challenge 26                    | Write a Python program to find the number of zeros at the end of a factorial of a given positive number.                 | Incomplete   |
-| Challenge 27                    | WAF program to find the number of notes (Sample of notes: 10, 20, 50, 100, 200 and 500 ) against a given amount.         | Incomplete   |
+| Challenge 26                    | Write a Python program to find the number of zeros at the end of a factorial of a given positive number.                 | `Completed`  |
+| Challenge 27                    | WAF program to find the number of notes (Sample of notes: 10, 20, 50, 100, 200 and 500 ) against a given amount.         | `Completed`  |
 | Challenge 28                    | WAF  program to create a sequence where the first four members of the sequence are equal to one, and each successive term of the sequence is equal to the sum of the four previous ones. Find the Nth member of the sequence.              | Incomplete   |
-| Challenge 29                    | WAF program to find the number of divisors of a given integer                                                            | Incomplete   |
-| Challenge 30                    | WAF program to find the digits which are absent in a given mobile number.                                                | Incomplete   |
-| Challenge 31                    | WAF program to find the type of the progression (arithmetic progression/geometric progression) and the next successive member of a given three successive members of a sequence.            | Incomplete   |
-| Challenge 32                    | WAF program to print the length of the series and the series from the given 3rd term, 3rd last term and the sum of a series. | Incomplete   |
-| Challenge 33                    | WAF program to find common divisors between two numbers in a given pair.                                                 | Incomplete   |
-| Challenge 34                    | WAF to reverse the digits of a given number and add it to the original, If the sum is not a palindrome repeat this procedure.| Incomplete   |
-| Challenge 35                    | WAF program to check whether three given lengths (integers) of three sides form a right triangle. Print "Yes" if the given sides form a right triangle otherwise print "No". | Incomplete   |
-| Challenge 36                    | WAF which solve the equation: Go to the editor ax+by=c dx+ey=f Print the values of x, y where a, b, c, d, e and f are given.| Incomplete   |
-| Challenge 37                    | WAF  to compute the amount of the debt in n months. The borrowing amount is $100,000 and the loan adds 5% interest of the debt and rounds it to the nearest 1,000 above month by month.| Incomplete   |
+| Challenge 29                    | WAF program to find the number of divisors of a given integer                                                            | `Completed`  |
+| Challenge 30                    | WAF program to find the digits which are absent in a given mobile number.                                                | `Completed`  |
+| Challenge 31                    | WAF program to find the type of the progression (arithmetic progression/geometric progression) and the next successive member of a given three successive members of a sequence.            | `Completed` |
+| Challenge 32                    | WAF program to print the length of the series and the series from the given 3rd term, 3rd last term and the sum of a series. |`Completed`   |
+| Challenge 33                    | WAF program to find common divisors between two numbers in a given pair.                                                 | `Completed`   |
+| Challenge 34                    | WAF to reverse the digits of a given number and add it to the original, If the sum is not a palindrome repeat this procedure.|`Completed`   |
+| Challenge 35                    | WAF program to check whether three given lengths (integers) of three sides form a right triangle. Print "Yes" if the given sides form a right triangle otherwise print "No". | `Completed`   |
+| Challenge 36                    | WAF which solve the equation: Go to the editor ax+by=c dx+ey=f Print the values of x, y where a, b, c, d, e and f are given.| I`Completed`  |
+| Challenge 37                    | WAF  to compute the amount of the debt in n months. The borrowing amount is $100,000 and the loan adds 5% interest of the debt and rounds it to the nearest 1,000 above month by month.| `Completed`  |
 | Challenge 38                    | WAF program to print the number of prime numbers which are less than or equal to a given integer.                        | Incomplete   |
-| Challenge 39                    | WAF to compute the radius and the central coordinate (x, y) of a circle which is constructed by three given points on the plane surface. Go to the editor Input: x1, y1, x2, y2, x3, y3 separated by a single space. Input three coordinate of the circle: 9 3 6 8 3 6 Radius of the said circle: 3.358 Central coordinate (x, y) of the circle: 6.071 4.643 | Incomplete   |
-| Challenge 40                    | WAF  program to check whether a point (x,y) is in a triangle or not. There is a triangle formed by three points       | Incomplete   |
+| Challenge 39                    | WAF to compute the radius and the central coordinate (x, y) of a circle which is constructed by three given points on the plane surface. Go to the editor Input: x1, y1, x2, y2, x3, y3 separated by a single space. Input three coordinate of the circle: 9 3 6 8 3 6 Radius of the said circle: 3.358 Central coordinate (x, y) of the circle: 6.071 4.643 | `Completed`   |
+| Challenge 40                    | WAF  program to check whether a point (x,y) is in a triangle or not. There is a triangle formed by three points       | `Completed`   |
 
