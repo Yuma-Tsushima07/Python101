@@ -46,14 +46,14 @@ Completing simple challenges with python!
 | Challenge 40                    | WAF  program to check whether a point (x,y) is in a triangle or not. There is a triangle formed by three points       | `Completed`   |
 | Challenge 41                    | WAPP to compute and print sum of two given integers (more than or equal to zero). If given integers or the sum have more than 80 digits, print "overflow". | Incomplete   |
 | Challenge 42                    |  Write a Python program that accepts six numbers as input and sorts them in descending order.                           | Incomplete   |
-| Challenge 43                    |  Write a Python program to test whether two lines PQ and RS are parallel. The four points are P(x1, y1), Q(x2, y2), R(x3, y3), S(x4, y4). | Incomplete   |
-| Challenge 44                    |  Write a Python program to that reads a date (from 2016/1/1 to 2016/12/31) and prints the day of the date. Jan. 1, 2016, is Friday. Note that 2016 is a leap year.                            | Incomplete   |
-| Challenge 45                    | Write a Python program to replace a string "Python" with "Java" and "Java" with "Python" in a given string.           | Incomplete   |
+| Challenge 43                    |  Write a Python program to test whether two lines PQ and RS are parallel. The four points are P(x1, y1), Q(x2, y2), R(x3, y3), S(x4, y4). | `Completed`   |
+| Challenge 44                    |  Write a Python program to that reads a date (from 2016/1/1 to 2016/12/31) and prints the day of the date. Jan. 1, 2016, is Friday. Note that 2016 is a leap year.                            | `Completed`  |
+| Challenge 45                    | Write a Python program to replace a string "Python" with "Java" and "Java" with "Python" in a given string.           | `Completed`   |
 
 ## HOTS 
 
 |  Challenge Number               |  Challenge Name                                                                                                          | Status       | 
 | -----------------------------   | -----------------------------------------------------------------------------------------------------------------------  | ------------ | 
-| HOTS 1                          |  Write a Python program to count the number of carry operations for each of a set of addition problems.                  | Incomplete   |
-| HOTS 2                          |  WAF to print the month.                                                                                                 | Incomplete   |
-| HOTS 3                          |  WAF to calculate number of days between 2 dates.                                                                        | Incomplete   |
+| HOTS 1                          |  Write a Python program to count the number of carry operations for each of a set of addition problems.                  | `Completed`  |
+| HOTS 2                          |  WAF to print the month.                                                                                                 | `Completed`  |
+| HOTS 3                          |  WAF to calculate number of days between 2 dates.                                                                        | `Completed` |
