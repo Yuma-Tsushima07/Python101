@@ -17,7 +17,7 @@ Completing simple challenges with python!
 | Challenge 11                    | WAF to print factorial of a number.                                                                                      | `Completed`  |
 | Challenge 12                    | WAF to find if a given letter is vowel or not.                                                                           | `Completed`  |
 | Challenge 13                    | WAF to remove all the vowles from a string.                                                                              | `Completed`  |
-| Challenge 14                    | WAF to check if a number is present in a list or not.                                                                    | Incomplete   |
+| Challenge 14                    | WAF to check if a number is present in a list or not.                                                                    | `Completed`  |
 | Challenge 15                    | WAF to convert all elements to a list and return them                                                                    | `Completed`  |
 | Challenge 16                    | WAF to calculate area or triangle                                                                                        | `Completed`  |
 | Challenge 17                    | WAF to calculate GCD of 2 positive numbers                                                                               | `Completed`  |
@@ -45,7 +45,7 @@ Completing simple challenges with python!
 | Challenge 39                    | WAF to compute the radius and the central coordinate (x, y) of a circle which is constructed by three given points on the plane surface. Go to the editor Input: x1, y1, x2, y2, x3, y3 separated by a single space. Input three coordinate of the circle: 9 3 6 8 3 6 Radius of the said circle: 3.358 Central coordinate (x, y) of the circle: 6.071 4.643 | Incomplete |
 | Challenge 40                    | WAF  program to check whether a point (x,y) is in a triangle or not. There is a triangle formed by three points       | `Completed`   |
 | Challenge 41                    | WAPP to compute and print sum of two given integers (more than or equal to zero). If given integers or the sum have more than 80 digits, print "overflow". | `Completed`   |
-| Challenge 42                    |  Write a Python program that accepts six numbers as input and sorts them in descending order.                           | Incomplete   |
+| Challenge 42                    |  Write a Python program that accepts six numbers as input and sorts them in descending order.                           | `Completed`   |
 | Challenge 43                    |  Write a Python program to test whether two lines PQ and RS are parallel. The four points are P(x1, y1), Q(x2, y2), R(x3, y3), S(x4, y4). | `Completed`   |
 | Challenge 44                    |  Write a Python program to that reads a date (from 2016/1/1 to 2016/12/31) and prints the day of the date. Jan. 1, 2016, is Friday. Note that 2016 is a leap year.                            | `Completed`  |
 | Challenge 45                    | Write a Python program to replace a string "Python" with "Java" and "Java" with "Python" in a given string.           | `Completed`   |
