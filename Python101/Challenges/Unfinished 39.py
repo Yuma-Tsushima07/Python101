@@ -1,1 +1,0 @@
-print("Challenge 39: WAF to compute the radius and the central coordinate (x, y) of a circle which is constructed by three given points on the plane surface. Go to the editor Input: x1, y1, x2, y2, x3, y3 separated by a single space. Input three coordinate of the circle: 9 3 6 8 3 6 Radius of the said circle: 3.358 Central coordinate (x, y) of the circle: 6.071 4.643")
